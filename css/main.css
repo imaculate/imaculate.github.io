@@ -49,3 +49,8 @@ img.resize{
    left:200px;
 
 }
+
+.social-media{
+	list-style-type: none;
+	display: inline;
+}
