@@ -52,5 +52,8 @@ img.resize{
 
 .social-media{
 	list-style-type: none;
+}
+
+.social-media.li{
 	display: inline;
 }
