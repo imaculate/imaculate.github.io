@@ -52,8 +52,11 @@ img.resize{
 
 .social-media{
 	list-style-type: none;
+	margin: 0;
+	padding: 0;
 }
 
-.social-media.li{
+.social-media li{
 	display: inline;
+	
 }
