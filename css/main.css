@@ -62,11 +62,8 @@ img.resize{
 	
 }
 .container img{
-	position: absolute;
+	position: float;
     margin: auto;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
+    
 
 }
