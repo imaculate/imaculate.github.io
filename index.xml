@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Imaculate&#39;s Internet home</title>
+    <link>https://imaculate.github.io/</link>
+    <description>Recent content on Imaculate&#39;s Internet home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Apr 2020 08:29:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://imaculate.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://imaculate.github.io/posts/hello-world/</link>
+      <pubDate>Sun, 19 Apr 2020 08:29:31 -0700</pubDate>
+      
+      <guid>https://imaculate.github.io/posts/hello-world/</guid>
+      <description>Over my relatively short career as a Software Engineer I&amp;rsquo;ve come to realize the importance of documentation. No one uses a feature they haven&amp;rsquo;t heard or read about. Compared to hours spent reading and debugging code, documentation may sound trivial but it makes a big difference for customers as well as team knowledge sharing.
+I&amp;rsquo;ve subconsiously known this for a while, its why I started amazife blog as a College Freshman.</description>
+    </item>
+    
+    <item>
+      <title>Hi, I&#39;m Imaculate Mosha</title>
+      <link>https://imaculate.github.io/about/</link>
+      <pubDate>Mon, 13 Apr 2020 08:29:00 -0700</pubDate>
+      
+      <guid>https://imaculate.github.io/about/</guid>
+      <description>📜 I spend most of my waking hours engineering software, running, writing and thinking about self-improvement. I&amp;rsquo;m currently based in Washington 🇺🇸 though I grew up in 🇹🇿 and studied in 🇿🇦 where I graduated with Electrical and Computer Engineering degree from the University of CapeTown. Welcome to my internet home!
+👩‍💻 I&amp;rsquo;m currently working on your favorite Word Processor, Microsoft Word. In the past I&amp;rsquo;ve worked on both Backend and Frontend projects, more about that on my resume.</description>
+    </item>
+    
+  </channel>
+</rss>

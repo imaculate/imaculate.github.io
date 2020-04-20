@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on Imaculate&#39;s Internet home</title>
+    <link>https://imaculate.github.io/tags/blog/</link>
+    <description>Recent content in blog on Imaculate&#39;s Internet home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Apr 2020 08:29:31 -0700</lastBuildDate>
+    
+	<atom:link href="https://imaculate.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://imaculate.github.io/posts/hello-world/</link>
+      <pubDate>Sun, 19 Apr 2020 08:29:31 -0700</pubDate>
+      
+      <guid>https://imaculate.github.io/posts/hello-world/</guid>
+      <description>Over my relatively short career as a Software Engineer I&amp;rsquo;ve come to realize the importance of documentation. No one uses a feature they haven&amp;rsquo;t heard or read about. Compared to hours spent reading and debugging code, documentation may sound trivial but it makes a big difference for customers as well as team knowledge sharing.
+I&amp;rsquo;ve subconsiously known this for a while, its why I started amazife blog as a College Freshman.</description>
+    </item>
+    
+  </channel>
+</rss>
