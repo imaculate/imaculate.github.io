@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>detours on Imaculate&#39;s Internet home</title>
+    <link>https://imaculate.github.io/tags/detours/</link>
+    <description>Recent content in detours on Imaculate&#39;s Internet home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Oct 2021 10:26:45 -0700</lastBuildDate><atom:link href="https://imaculate.github.io/tags/detours/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lost</title>
+      <link>https://imaculate.github.io/posts/detour/</link>
+      <pubDate>Sun, 10 Oct 2021 10:26:45 -0700</pubDate>
+      
+      <guid>https://imaculate.github.io/posts/detour/</guid>
+      <description>Fun fact about me, I have terrible sense of direction. Whenever I go someplace new, I budget for at least 15 minutes of getting lost. It happens so often that getting it right the first feels unnatural. A few highlights include the time I lost the bike trail and ended up biking on the highway (!!Do not try this at home!!), the one time I got lost kayaking on a lake (yes, that is possible), the time I spent finding my way in Osaka which was 100% of the time.</description>
+    </item>
+    
+  </channel>
+</rss>
