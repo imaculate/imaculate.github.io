@@ -2,22 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://imaculate.github.io/tags/bellcurve/</loc>
-    <lastmod>2024-02-22T18:00:51-08:00</lastmod>
+    <loc>https://imaculate.github.io/posts/anchors/</loc>
+    <lastmod>2024-04-02T07:25:30-08:00</lastmod>
+  </url><url>
+    <loc>https://imaculate.github.io/tags/events/</loc>
+    <lastmod>2024-04-02T07:25:30-08:00</lastmod>
   </url><url>
     <loc>https://imaculate.github.io/</loc>
+    <lastmod>2024-04-02T07:25:30-08:00</lastmod>
+  </url><url>
+    <loc>https://imaculate.github.io/posts/</loc>
+    <lastmod>2024-04-02T07:25:30-08:00</lastmod>
+  </url><url>
+    <loc>https://imaculate.github.io/tags/relationships/</loc>
+    <lastmod>2024-04-02T07:25:30-08:00</lastmod>
+  </url><url>
+    <loc>https://imaculate.github.io/tags/routine/</loc>
+    <lastmod>2024-04-02T07:25:30-08:00</lastmod>
+  </url><url>
+    <loc>https://imaculate.github.io/tags/</loc>
+    <lastmod>2024-04-02T07:25:30-08:00</lastmod>
+  </url><url>
+    <loc>https://imaculate.github.io/tags/bellcurve/</loc>
     <lastmod>2024-02-22T18:00:51-08:00</lastmod>
   </url><url>
     <loc>https://imaculate.github.io/tags/opinions/</loc>
     <lastmod>2024-02-22T18:00:51-08:00</lastmod>
   </url><url>
     <loc>https://imaculate.github.io/tags/optimization/</loc>
-    <lastmod>2024-02-22T18:00:51-08:00</lastmod>
-  </url><url>
-    <loc>https://imaculate.github.io/posts/</loc>
-    <lastmod>2024-02-22T18:00:51-08:00</lastmod>
-  </url><url>
-    <loc>https://imaculate.github.io/tags/</loc>
     <lastmod>2024-02-22T18:00:51-08:00</lastmod>
   </url><url>
     <loc>https://imaculate.github.io/posts/bellcurve/</loc>
@@ -183,9 +195,6 @@
     <lastmod>2023-02-27T08:35:48-08:00</lastmod>
   </url><url>
     <loc>https://imaculate.github.io/posts/control/</loc>
-    <lastmod>2023-02-27T08:35:48-08:00</lastmod>
-  </url><url>
-    <loc>https://imaculate.github.io/tags/routine/</loc>
     <lastmod>2023-02-27T08:35:48-08:00</lastmod>
   </url><url>
     <loc>https://imaculate.github.io/tags/death/</loc>
