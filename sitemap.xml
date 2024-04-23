@@ -2,25 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://imaculate.github.io/</loc>
+    <lastmod>2024-04-22T07:46:05-07:00</lastmod>
+  </url><url>
+    <loc>https://imaculate.github.io/tags/margins/</loc>
+    <lastmod>2024-04-22T07:46:05-07:00</lastmod>
+  </url><url>
+    <loc>https://imaculate.github.io/posts/margin/</loc>
+    <lastmod>2024-04-22T07:46:05-07:00</lastmod>
+  </url><url>
+    <loc>https://imaculate.github.io/posts/</loc>
+    <lastmod>2024-04-22T07:46:05-07:00</lastmod>
+  </url><url>
+    <loc>https://imaculate.github.io/tags/productivity/</loc>
+    <lastmod>2024-04-22T07:46:05-07:00</lastmod>
+  </url><url>
+    <loc>https://imaculate.github.io/tags/slow/</loc>
+    <lastmod>2024-04-22T07:46:05-07:00</lastmod>
+  </url><url>
+    <loc>https://imaculate.github.io/tags/</loc>
+    <lastmod>2024-04-22T07:46:05-07:00</lastmod>
+  </url><url>
     <loc>https://imaculate.github.io/posts/anchors/</loc>
     <lastmod>2024-04-02T07:25:30-08:00</lastmod>
   </url><url>
     <loc>https://imaculate.github.io/tags/events/</loc>
     <lastmod>2024-04-02T07:25:30-08:00</lastmod>
   </url><url>
-    <loc>https://imaculate.github.io/</loc>
-    <lastmod>2024-04-02T07:25:30-08:00</lastmod>
-  </url><url>
-    <loc>https://imaculate.github.io/posts/</loc>
-    <lastmod>2024-04-02T07:25:30-08:00</lastmod>
-  </url><url>
     <loc>https://imaculate.github.io/tags/relationships/</loc>
     <lastmod>2024-04-02T07:25:30-08:00</lastmod>
   </url><url>
     <loc>https://imaculate.github.io/tags/routine/</loc>
-    <lastmod>2024-04-02T07:25:30-08:00</lastmod>
-  </url><url>
-    <loc>https://imaculate.github.io/tags/</loc>
     <lastmod>2024-04-02T07:25:30-08:00</lastmod>
   </url><url>
     <loc>https://imaculate.github.io/tags/bellcurve/</loc>
@@ -93,9 +105,6 @@
     <lastmod>2023-10-22T13:55:09-07:00</lastmod>
   </url><url>
     <loc>https://imaculate.github.io/tags/fulfillment/</loc>
-    <lastmod>2023-10-22T13:55:09-07:00</lastmod>
-  </url><url>
-    <loc>https://imaculate.github.io/tags/productivity/</loc>
     <lastmod>2023-10-22T13:55:09-07:00</lastmod>
   </url><url>
     <loc>https://imaculate.github.io/tags/business/</loc>
@@ -253,9 +262,6 @@
   </url><url>
     <loc>https://imaculate.github.io/tags/ultra/</loc>
     <lastmod>2022-09-05T20:30:00-07:00</lastmod>
-  </url><url>
-    <loc>https://imaculate.github.io/tags/slow/</loc>
-    <lastmod>2022-05-31T19:00:00-07:00</lastmod>
   </url><url>
     <loc>https://imaculate.github.io/posts/years/</loc>
     <lastmod>2022-05-31T19:00:00-07:00</lastmod>
