@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://imaculate.github.io/</loc>
+    <lastmod>2024-10-08T09:49:33-07:00</lastmod>
+  </url><url>
+    <loc>https://imaculate.github.io/tags/observation/</loc>
+    <lastmod>2024-10-08T09:49:33-07:00</lastmod>
+  </url><url>
+    <loc>https://imaculate.github.io/posts/</loc>
+    <lastmod>2024-10-08T09:49:33-07:00</lastmod>
+  </url><url>
+    <loc>https://imaculate.github.io/tags/public/</loc>
+    <lastmod>2024-10-08T09:49:33-07:00</lastmod>
+  </url><url>
+    <loc>https://imaculate.github.io/tags/</loc>
+    <lastmod>2024-10-08T09:49:33-07:00</lastmod>
+  </url><url>
+    <loc>https://imaculate.github.io/posts/observed/</loc>
+    <lastmod>2024-10-08T09:49:33-07:00</lastmod>
+  </url><url>
     <loc>https://imaculate.github.io/tags/desire/</loc>
     <lastmod>2024-09-06T07:00:16-07:00</lastmod>
   </url><url>
@@ -11,16 +29,7 @@
     <loc>https://imaculate.github.io/tags/goal/</loc>
     <lastmod>2024-09-06T07:00:16-07:00</lastmod>
   </url><url>
-    <loc>https://imaculate.github.io/</loc>
-    <lastmod>2024-09-06T07:00:16-07:00</lastmod>
-  </url><url>
     <loc>https://imaculate.github.io/posts/other/</loc>
-    <lastmod>2024-09-06T07:00:16-07:00</lastmod>
-  </url><url>
-    <loc>https://imaculate.github.io/posts/</loc>
-    <lastmod>2024-09-06T07:00:16-07:00</lastmod>
-  </url><url>
-    <loc>https://imaculate.github.io/tags/</loc>
     <lastmod>2024-09-06T07:00:16-07:00</lastmod>
   </url><url>
     <loc>https://imaculate.github.io/tags/belief/</loc>
